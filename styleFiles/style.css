@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.images {
+  width: 500px;
+  max-height: 400px;
+}
+
+li {
+  margin: 10px;
+}
+/*# sourceMappingURL=style.css.map */
